@@ -1,8 +1,8 @@
-Proposition,GreekLabels,GreekDirectionality,ArabicLabels,ArabicDirectionality,NumberFigures,Symmetry
-1.propositions.1,5,counterclockwise,6,clockwise,1,yes
-1.propositions.2
-1.propositions.3
-1.propositions.4
+Proposition,GreekLabels,GreekDirectionality,ArabicLabels,ArabicDirectionality,NumberFigures,OrderFigures,Symmetry
+1.propositions.1,5,counterclockwise,6,clockwise,1,same,yes
+1.propositions.2,unclear,unclear,8,clockwise,1,same,no
+1.propositions.3,6,counterclockwise,5,clockwise,2,opposite,no
+1.propositions.4,6,counterclockwise,6,clockwise,opposite,2,yes
 1.propositions.5
 1.propositions.6
 1.propositions.7
