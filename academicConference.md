@@ -51,7 +51,7 @@
 #Placement of diagrams#
 
 * [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of proposition as a finale of sorts
-* [Arabic 2484](urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189) : not all one-to-one with some propositions containing extra steps for the proofs
+* [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189) : not all one-to-one with some propositions containing extra steps for the proofs
 
 ----
 
