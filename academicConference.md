@@ -51,7 +51,7 @@
 #Placement of diagrams#
 
 * [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of proposition as a finale of sorts
-* [Arabic 2484](urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189): not all one-to-one with some propositions containing extra steps for the proofs
+* [Arabic 2484](urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189) : not all one-to-one with some propositions containing extra steps for the proofs
 
 ----
 
@@ -75,15 +75,13 @@
 
 ----
 
-##Arabic 2484
+##Arabic 2484##
 
 * [propositions 1.1 through 1.45](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img306@0.1433,0.2817,0.3567,0.1139) are drawn in red ink with black labels
 * [propositions 1.46 through 2.11](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img311@0.1924,0.4403,0.4248,0.202) are drawn in all black ink with a different hand
 * [spaces](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img317) left for diagrams within the text after proposition 2.11
 
 ----
-
-##Arabic 2484 continued## 
 
 * propostions 1.3 and 1.4 share a space within the text for [proposition 1.3](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img297)
 
