@@ -7,7 +7,7 @@
 
 #Why are diagrams important?#
 
-* yield insights into a mathamatician's work
+* yield insights into a mathematician's work
 * paint visual versions of what the text is saying
 * give readers a fuller sense of the mathematics
 
@@ -32,15 +32,15 @@
 
 #Arabic Transcriptions#
 
-* writing system goes from right to left: بارد
-* number system goes from left to right: ٢٠١٥
+* writing system goes from right to left:  كتاب = ktab
+* number system goes from left to right: ٢٠١٥ = 2015
 * so then what direction should the diagrams and their labels be drawn in?
 
 ----
 
 #Preliminary observations#
 
-1. the physical drawing of the diagrams
+
 2. characteristics such as the placement of the diagrams within the text
 3. how many diagrams appear per proposition
 4. how the labels work within the diagram
@@ -51,7 +51,11 @@
 #Placement of diagrams#
 
 * [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of proposition as a finale of sorts
-* [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189): not all one-to-one with some propositions containing extra steps for the proofs
+* [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189): not all one-to-one with some propositions containing extra steps for the proofs
+
+
+
+
 
 ----
 
@@ -97,6 +101,7 @@
 ##Labeling practices##
 
 * symmetric diagrams such as in proposition 1.25: compare the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc024@0.3383,0.6044,0.1401,0.1582) with the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img305@0.2685,0.7462,0.3357,0.0974)
+* LATIN: NEED TO MAKE THE POINT ABOUT WHY THERE ARE NO LABELS!
 
 ----
 
@@ -117,6 +122,9 @@
 * mirroring of individual figures
 * order of figures does not seem to matter
 * more complex figures drawn mirrored, but also some such as proposition 2.6 appear to be drawn upside-down in the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img314@0.0931,0.1073,0.3463,0.1488) as compared to the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc040@0.6416,0.5994,0.1842,0.1719)
+
+- "APPLICATION OF AREA" in EUCLID book 2 == quadratic equation
+
 
 ----
 
