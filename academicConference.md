@@ -71,9 +71,9 @@
 
 ##Book 10 of the D'Orville 301##
 
-* contains many propositions which incude the wrong diagram 
+* contains many propositions which include the wrong diagram 
 * especially evident from [proposition 10.91 to 10.110](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc264)
-* shows the possiblility that the scribe was copying one diagram after another into the manuscript and lost count of which proposition he was drawing
+* shows the possibility that the scribe was copying one diagram after another into the manuscript and lost count of which proposition he was drawing
 
 ----
 
@@ -85,7 +85,7 @@
 
 ----
 
-* propostions 1.3 and 1.4 share a space within the text for [proposition 1.3](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img297)
+* proposItions 1.3 and 1.4 share a space within the text for [proposition 1.3](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img297)
 
 ----
 
@@ -98,7 +98,7 @@
 
 ##Labeling practices##
 
-* Arabic manuscripts follow from Greek tradition adn so labels should match up in some way
+* Arabic manuscripts follow from Greek tradition and so labels should match up in some way
 * [Latin 10257](http://beta.hpcc.uh.edu/hmt/gallica/bnf-lat-10257/bnf_lat_10257_img9.pdf) does not contain labels because it is comprised solely of the statements of the propositions and not their proofs
 
 ----
@@ -107,7 +107,7 @@
 
 ----
 
-* unsymmetric diagrams such as in proposition 1.22: compare the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc022@0.6306,0.6187,0.2563,0.1551) with the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img304@0.0992,0.3605,0.4269,0.1441)
+* asymmetric diagrams such as in proposition 1.22: compare the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc022@0.6306,0.6187,0.2563,0.1551) with the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img304@0.0992,0.3605,0.4269,0.1441)
 
 ----
 
