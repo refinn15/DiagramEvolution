@@ -8,16 +8,17 @@
 #Why are diagrams important?#
 
 * yield insights into a mathematician's work
-* paint visual versions of what the text is saying
+* expresses in graphics what the text is saying
 * give readers a fuller sense of the mathematics
 
 ----
 
 #Manuscripts of Euclid's *Elements*#
 
-1. D'Orville 301, Bodleian Library
-2. Arabic 2484, National Library of France
-3. Latin 10257, National Library of France
+1. [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc022), Bodleian Library
+2. [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img304), National Library of France
+3. [Latin 10257](http://beta.hpcc.uh.edu/hmt/gallica/bnf-lat-10257/bnf_lat_10257_img10.pdf), National Library of France
+
 
 ----
 
@@ -52,9 +53,6 @@
 
 * [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of proposition as a finale of sorts
 * [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189): not all one-to-one with some propositions containing extra steps for the proofs
-
-
-
 
 
 ----
@@ -100,8 +98,12 @@
 
 ##Labeling practices##
 
+* Arabic manuscripts follow from Greek tradition adn so labels should match up in some way
+* [Latin 10257](http://beta.hpcc.uh.edu/hmt/gallica/bnf-lat-10257/bnf_lat_10257_img9.pdf) does not contain labels because it is comprised solely of the statements of the propositions and not their proofs
+
+----
+
 * symmetric diagrams such as in proposition 1.25: compare the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc024@0.3383,0.6044,0.1401,0.1582) with the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img305@0.2685,0.7462,0.3357,0.0974)
-* LATIN: NEED TO MAKE THE POINT ABOUT WHY THERE ARE NO LABELS!
 
 ----
 
@@ -123,8 +125,6 @@
 * order of figures does not seem to matter
 * more complex figures drawn mirrored, but also some such as proposition 2.6 appear to be drawn upside-down in the [Arabic](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img314@0.0931,0.1073,0.3463,0.1488) as compared to the [Greek](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:episteme:dorv301img.euc040@0.6416,0.5994,0.1842,0.1719)
 
-- "APPLICATION OF AREA" in EUCLID book 2 == quadratic equation
-
 
 ----
 
@@ -143,4 +143,4 @@
 
 ----
 
-Thank you!
+##Thank you!##
