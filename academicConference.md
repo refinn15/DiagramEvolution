@@ -141,7 +141,6 @@
 
 * diagrams are drawn into the manuscript on at a least a second pass
 * creation of diagrams can be seen as a scholarly act similar to the creation of the text
-* editors of manuscripts need to take a closer look this
 
 ----
 
