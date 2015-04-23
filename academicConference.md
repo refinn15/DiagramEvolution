@@ -113,6 +113,7 @@
 
 ##General conclusions about labels##
 
+* Arabic labels have the tendency to skip the sixth letter in the Arabic alphabet and move straight to the seventh letter (zayn)
 * Greek labels travel from left to right
 * Arabic labels travel from right to left
 * number of labels usually the same with some exceptions such as the error in the Arabic [proposition 1.27](http://beta.hpcc.uh.edu/tomcat/mss/ict.html?urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img306@0.0421,0.5413,0.3918,0.0988)
