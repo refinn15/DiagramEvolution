@@ -8,7 +8,7 @@
 #Why are diagrams important?#
 
 * yield insights into a mathematician's work
-* expresses in graphics what the text is saying
+* express in graphics what the text is saying
 * give readers a fuller sense of the mathematics
 
 ----
@@ -24,7 +24,7 @@
 
 #Who was Euclid?#
 
-* one of the most influential ancient Greek mathematician
+* one of the most influential ancient Greek mathematicians
 * flourished in Alexandria around 300 BCE
 * his *Elements* was used as a basic geometry textbook soon after its initial publication
 * his works were one of the first, if not the first, to be translated from Greek into Arabic
@@ -33,7 +33,7 @@
 
 #Arabic Transcriptions#
 
-* writing system goes from right to left:  كتاب = ktab
+* writing system goes from right to left: كتاب = ktab
 * number system goes from left to right: ٢٠١٥ = 2015
 * so then what direction should the diagrams and their labels be drawn in?
 
@@ -51,7 +51,7 @@
 
 #Placement of diagrams#
 
-* [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of proposition as a finale of sorts
+* [D'Orville 301](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:episteme:dorv301img.euc050) and Codex Bodmer 8: one-to-one with diagrams appearing at end of propositions as a finale of sorts
 * [Arabic 2484](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img296@0.0711,0.3413,0.3724,0.189): not all one-to-one with some propositions containing extra steps for the proofs
 
 
@@ -85,7 +85,7 @@
 
 ----
 
-* proposItions 1.3 and 1.4 share a space within the text for [proposition 1.3](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img297)
+* propositions 1.3 and 1.4 share a space within the text for [proposition 1.3](http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:ar2484img.bnf_arabe_2484_img297)
 
 ----
 
@@ -140,6 +140,7 @@
 
 * diagrams are drawn into the manuscript on at a least a second pass
 * creation of diagrams can be seen as a scholarly act similar to the creation of the text
+* editors of manuscripts need to take a closer look this
 
 ----
 
